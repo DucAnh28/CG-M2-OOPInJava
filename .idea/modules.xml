@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BT-1-ClassQuadraticEquation/BT-1-ClassQuadraticEquation.iml" filepath="$PROJECT_DIR$/BT-1-ClassQuadraticEquation/BT-1-ClassQuadraticEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT-2-StopWatch/BT-2-StopWatch.iml" filepath="$PROJECT_DIR$/BT-2-StopWatch/BT-2-StopWatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT-3-ClassFan/BT-3-ClassFan.iml" filepath="$PROJECT_DIR$/BT-3-ClassFan/BT-3-ClassFan.iml" />
       <module fileurl="file://$PROJECT_DIR$/DemoOOP/DemoOOP.iml" filepath="$PROJECT_DIR$/DemoOOP/DemoOOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-1-ClassRectangle/TH-1-ClassRectangle.iml" filepath="$PROJECT_DIR$/TH-1-ClassRectangle/TH-1-ClassRectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/oopInJava.iml" filepath="$PROJECT_DIR$/oopInJava.iml" />
