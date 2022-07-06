@@ -4,10 +4,10 @@ public class Rectangle {
         this.width = 10;
         this.height = 10;
     }
-//    public Rectangle(double width,double height){
-//        this.width = width;
-//        this.height = height;
-//    }
+    public Rectangle(double width,double height){
+        this.width = width;
+        this.height = height;
+    }
     public double getArea(){
         return this.width * this.height;
     }
